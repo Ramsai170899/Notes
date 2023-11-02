@@ -1,3 +1,4 @@
 # Notes
 
-learning and revising
+[learning and revising](https://github.com/Ramsai170899/Notes/tree/main)
+

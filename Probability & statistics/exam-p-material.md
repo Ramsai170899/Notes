@@ -1,2 +1,2 @@
-# Actuarial Exam p concepts.
+# Actuarial Exam P concepts.
 
