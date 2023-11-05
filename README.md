@@ -1,4 +1,6 @@
 # Notes
 
-[learning and revising](https://github.com/Ramsai170899/Notes/tree/main)
+[learning and revising problems link](https://github.com/Ramsai170899/Notes/tree/main)
+
+
 
