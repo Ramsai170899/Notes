@@ -2,7 +2,7 @@
 
 [learning and revising problems link](https://github.com/Ramsai170899/Notes/tree/main)
 
-
+```
 Tone : make friendly, opportunistic 
 
 name
@@ -29,4 +29,7 @@ current work experience use
 
 data science
 Actuarial science
+
+```
+
 
