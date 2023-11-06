@@ -2,9 +2,10 @@
 
 [learning and revising problems link](https://github.com/Ramsai170899/Notes/tree/main)
 
-```
-Tone : make friendly, opportunistic 
 
+## Tone : make friendly, opportunistic 
+
+```
 name
 
 myself, parents, rel with kbc
