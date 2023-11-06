@@ -16,7 +16,8 @@ staying place
 company
 work title
 
-studies, work till now, proficiency, side learnings
+studies, work till now, 
+proficiency, side learnings
 
 freshers work
 vacancies 
