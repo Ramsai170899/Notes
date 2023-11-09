@@ -5,6 +5,8 @@
 
 ## Tone : make friendly, opportunistic 
 
+[stats](https://mega.nz/folder/4QA1GBaB#9kXm7kx6c20VHzuv2QSvKA/file/UFhAxKoD)
+
 ```
 name
 
