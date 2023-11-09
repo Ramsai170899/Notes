@@ -1,7 +1,7 @@
 # Notes
 
-[learning and revising problems link](https://github.com/Ramsai170899/Notes/tree/main)
-
+[learning and revising problems link](https://github.com/Ramsai170899/Notes/tree/main)  |
+[365 Data science files](https://mega.nz/folder/4QA1GBaB#9kXm7kx6c20VHzuv2QSvKA)
 
 ## Tone : make friendly, opportunistic 
 
